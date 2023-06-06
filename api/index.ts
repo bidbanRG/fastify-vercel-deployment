@@ -19,5 +19,3 @@ module.exports = async (req:FastifyRequest, res:FastifyReply) => {
 };
 
 
-
-module.exports = app;
